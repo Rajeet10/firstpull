@@ -1,3 +1,2 @@
-# firstpull
-# This is my first Pull request and it seems fine do look at it
-#3awesome
+# Want to know me?
+Join here and see the world my way!!
