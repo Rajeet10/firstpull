@@ -4,7 +4,7 @@ Its my first one
 I created this repo for beginners to get in to their first open source contribution
 
 
-## Hacktoberfest Practice Pull Requests
+## Hacktoberfest Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
@@ -71,7 +71,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
+- **update or add your code to the section that matches your Initial in , make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
